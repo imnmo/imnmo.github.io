@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 100" width="52" height="40">
+  <!-- tail -->
+  <path d="M18 48 C8 52 6 64 10 72" fill="none" stroke="#7A808C" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="10" cy="73" r="3.2" fill="#5B616C"/>
+  <!-- back legs -->
+  <rect x="26" y="68" width="14" height="26" rx="6" fill="#7A808C"/>
+  <rect x="62" y="68" width="14" height="26" rx="6" fill="#7A808C"/>
+  <!-- body -->
+  <ellipse cx="55" cy="54" rx="40" ry="27" fill="#9097A3"/>
+  <!-- front legs -->
+  <rect x="38" y="68" width="14" height="26" rx="6" fill="#9097A3"/>
+  <rect x="74" y="68" width="14" height="26" rx="6" fill="#9097A3"/>
+  <rect x="38" y="87" width="14" height="7" rx="3.5" fill="#E4DCCB"/>
+  <rect x="74" y="87" width="14" height="7" rx="3.5" fill="#E4DCCB"/>
+  <rect x="26" y="87" width="14" height="7" rx="3.5" fill="#D3CAB7"/>
+  <rect x="62" y="87" width="14" height="7" rx="3.5" fill="#D3CAB7"/>
+  <!-- trunk -->
+  <path d="M110 50 C124 56 127 74 117 86 C113 91 106 86 110 82" fill="none" stroke="#9097A3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- head -->
+  <circle cx="98" cy="42" r="23" fill="#9097A3"/>
+  <!-- ear -->
+  <ellipse cx="82" cy="44" rx="18" ry="23" fill="#A9AFB9" stroke="#7A808C" stroke-width="2"/>
+  <ellipse cx="82" cy="46" rx="10" ry="15" fill="#D9B8BE"/>
+  <!-- tusk -->
+  <path d="M106 58 C112 64 120 66 124 62" fill="none" stroke="#FFFDF5" stroke-width="4" stroke-linecap="round"/>
+  <!-- eye -->
+  <circle cx="106" cy="35" r="3" fill="#2B2D33"/>
+  <circle cx="107" cy="34" r="1" fill="#fff"/>
+</svg>
